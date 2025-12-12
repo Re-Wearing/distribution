@@ -12,17 +12,6 @@
 [🌐 데모 보기](http://ec2-13-209-64-97.ap-northeast-2.compute.amazonaws.com/)
 [🌐 시연 영상](https://youtu.be/44GKcobj6Sg)
 
-# 🧥 RE:WEAR
-
-**입지 않는 옷에 새로운 가치를, 의류 기부 중개 플랫폼**
-
-[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-[🌐 데모 보기](http://ec2-13-209-64-97.ap-northeast-2.compute.amazonaws.com/)
-[🌐 시연 영상
 </div>
 
 ---
